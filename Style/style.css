@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(208, 250, 250);
+}
+
+#pdev {
+    color: #e2a619;
+}
+
+.images{
+    border-radius: 25%;
+}
+
+.Btn{
+    font-family: "-apple-system", arial,sans-serif;
+    background-color: aliceblue;
+}
+
+ul{
+    font-size: larger;
+
+}
+ol{
+    font-size: xx-large;
+}
+
+li{
+
+    font-size: medium;
+}
+

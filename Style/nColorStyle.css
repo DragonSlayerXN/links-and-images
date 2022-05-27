@@ -1,0 +1,23 @@
+h1
+    {
+        color: aqua;
+    }
+
+h2
+    {
+        color: #34dc7a;
+    }
+
+h3
+    {
+        color:rgb(247, 0, 0);
+    }
+h4
+    {
+        color: hsla(71, 100%, 50%, 0.644);
+    }
+
+div 
+    {
+        background-color: rgba(2, 2, 2, 0.708);
+    }
